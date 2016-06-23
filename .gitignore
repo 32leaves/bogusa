@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Gulp results
+dist
+
+# Bower files
+bower_components

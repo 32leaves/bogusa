@@ -1,0 +1,27 @@
+{
+  "name": "bogusa",
+  "description": "A Bower, Gulp, SASS boilerplate",
+  "main": "index.js",
+  "authors": [
+    "Christian Weichel"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sass",
+    "bower",
+    "gulp",
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/32leaves/bogusa",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
